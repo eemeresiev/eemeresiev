@@ -23,7 +23,7 @@
 
 ### 👨‍💻: About Me :
 
-- :telescope: I am a 2nd year pursuing a Master's degree in Applied Statistics and Data Analytics from Central Michigan University, United State.
+- :telescope: I am a 2nd year student pursuing a Master's degree in Applied Statistics and Data Analytics from Central Michigan University, United State.
 
 - :seedling: Data science ethusiast.
 
