@@ -42,6 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn4.iconfinder.com/data/icons/flat-pro-database-set-1/32/sql-badge-128.png" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://www.cleanpng.com/png-apache-spark-apache-hadoop-big-data-scala-apache-h-810810/" title="Apache spark alt="Apache spark" width="40" height="40"/>&nbsp;
  </div>
  
  ---
