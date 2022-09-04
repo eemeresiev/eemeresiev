@@ -27,7 +27,7 @@
 
 - :seedling: Data science ethusiast.
 
-- :zap: In my free time; I read, solve problems on GeeksforGeeks and watch anime.
+- :zap: In my free time; I read, solve coding problems and watch anime.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-EmmanuelEsivwenughwu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-esivwenughwu-878a7074/)
 
