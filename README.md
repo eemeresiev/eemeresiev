@@ -23,7 +23,7 @@
 
 ### 👨‍💻: About Me :
 
-- :telescope: I am a data science enthusiast with a Master's degree in Applied Statistics and Data Analytics from Central Michigan University, United State.
+- :telescope: I am a data science enthusiast with a Master's degree in Applied Statistics and Data Analytics from Central Michigan University, United States.
 
 - :seedling: Data science ethusiast.
 
